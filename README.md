@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/david29dc">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=david29dc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david29dc&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David29dc&layout=compact&langs_count=7&theme=monokai"/>
 </div>
  Learning...
 <div style="display: inline_block">
